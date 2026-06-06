@@ -106,7 +106,7 @@ Advanced security implementation
 
 Clone the repository
 
-git clone https://github.com/deepu-stack/smart-complaint-managanement-system.git
+git clone https:https://github.com/Ankit17102003A/smart-complaint-managanement-system
 
 Open project folder
 
